@@ -1,0 +1,5 @@
+C:\Source\DeviceWithStateDesign\DeviceWithStateDesign\ClassLibrary1\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Source\DeviceWithStateDesign\DeviceWithStateDesign\ClassLibrary1\bin\Debug\Domain.dll
+C:\Source\DeviceWithStateDesign\DeviceWithStateDesign\ClassLibrary1\bin\Debug\Domain.pdb
+C:\Source\DeviceWithStateDesign\DeviceWithStateDesign\ClassLibrary1\obj\Debug\Domain.dll
+C:\Source\DeviceWithStateDesign\DeviceWithStateDesign\ClassLibrary1\obj\Debug\Domain.pdb
